@@ -3,5 +3,12 @@ Reliance merged into Fort Resolution and slot used for northern louisiana territ
 Province in Wisconsin(?) Modified to suit Louisiana borders
 
 To-Do:
+Add province for Wight-Portsmouth-Southhampton occupied territory
+Reshape hanseatic cities
+Check pops for northern louisiana province
+Merge Kular into Saskylah with 250 Yakuts
+Merge Khatanga into Volochanga along with 245 siberian minors
+Merge Abiy into CHokurdakh along with 500 Yakuts
+Redraw Geneva and Libourg and shift pops
 Add 297 Inuits, 248 Native american minors, and 5 Br*ts to Fort Resolution
 Adjust Definitions.csv to update new provinces
