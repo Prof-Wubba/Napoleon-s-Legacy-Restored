@@ -1,6 +1,7 @@
 Changelog:
-Province in Nunavut consolidated and slot used for northern louisiana territory
+Reliance merged into Fort Resolution and slot used for northern louisiana territory
 Province in Wisconsin(?) Modified to suit Louisiana borders
 
 To-Do:
-Adjust adjacensies on Canadian and Wisconcin province
+Add 297 Inuits, 248 Native american minors, and 5 Br*ts to Fort Resolution
+Adjust Definitions.csv to update new provinces
