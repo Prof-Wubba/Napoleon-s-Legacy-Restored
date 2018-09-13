@@ -1,0 +1,6 @@
+Changelog:
+Province in Nunavut consolidated and slot used for northern louisiana territory
+Province in Wisconsin(?) Modified to suit Louisiana borders
+
+To-Do:
+Adjust adjacensies on Canadian and Wisconcin province
