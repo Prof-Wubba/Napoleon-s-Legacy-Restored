@@ -1,9 +1,13 @@
 Changelog:
 Reliance merged into Fort Resolution and slot used for northern louisiana territory
 Province in Wisconsin(?) Modified to suit Louisiana borders
+Add province for Wight-Portsmouth-Southhampton occupied territory
+Readded Lausanne
 
 To-Do:
-Add province for Wight-Portsmouth-Southhampton occupied territory
+Make Portsmouth-Wight urban terrain
+Change Geneva's terrain potentially
+Fix Lausanne's pops
 Reshape hanseatic cities
 Check pops for northern louisiana province
 Merge Kular into Saskylah with 250 Yakuts
