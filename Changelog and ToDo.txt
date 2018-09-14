@@ -8,6 +8,8 @@ Merged 2 of the 3 siberian provinces, forgot which pairs though
 Adjusted wisconsin province shapes
 Split the two northern louisiana provinces to keep state shaps nice
 Extended trieste to landlock that slovenian province.
+Adjusted French rhine province to include the small tendril on the east bank
+
 
 To-Do:
 Make Portsmouth-Wight urban terrain
