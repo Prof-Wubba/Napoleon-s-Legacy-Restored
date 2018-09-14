@@ -5,6 +5,9 @@ Add province for Wight-Portsmouth-Southhampton occupied territory
 Readded Lausanne
 Changed that Rhenish province so it extends slightly over the rhine
 Merged 2 of the 3 siberian provinces, forgot which pairs though
+Adjusted wisconsin province shapes
+Split the two northern louisiana provinces to keep state shaps nice
+Extended trieste to landlock that slovenian province.
 
 To-Do:
 Make Portsmouth-Wight urban terrain
