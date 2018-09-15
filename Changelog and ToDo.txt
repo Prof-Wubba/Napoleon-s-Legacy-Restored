@@ -4,7 +4,7 @@ Province in Wisconsin(?) Modified to suit Louisiana borders
 Add province for Wight-Portsmouth-Southhampton occupied territory
 Readded Lausanne
 Changed that Rhenish province so it extends slightly over the rhine
-Merged 2 of the 3 siberian provinces, forgot which pairs though
+Unmerged all Provinces
 Adjusted wisconsin province shapes
 Split the two northern louisiana provinces to keep state shaps nice
 Extended trieste to landlock that slovenian province.
@@ -12,14 +12,11 @@ Adjusted French rhine province to include the small tendril on the east bank
 
 
 To-Do:
+Find Colors for new provinces, place at end of extra slots
 Make Portsmouth-Wight urban terrain
 Change Geneva's terrain potentially
 Fix Lausanne's pops
 Reshape hanseatic cities
 Check pops for northern louisiana province
-Merge Kular into Saskylah with 250 Yakuts
-Merge Khatanga into Volochanga along with 245 siberian minors
-Merge Abiy into CHokurdakh along with 500 Yakuts
 Redraw Geneva and Libourg and shift pops
-Add 297 Inuits, 248 Native american minors, and 5 Br*ts to Fort Resolution
 Adjust Definitions.csv to update new provinces
