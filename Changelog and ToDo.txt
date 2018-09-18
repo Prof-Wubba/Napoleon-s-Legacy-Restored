@@ -10,6 +10,9 @@ Split the two northern louisiana provinces to keep state shaps nice
 Extended trieste to landlock that slovenian province.
 Adjusted French rhine province to include the small tendril on the east bank
 Corrected The colors for the provinces of the norhtern louisiana territory.  Colors are 3301 and 3302.
+Edited Zagreb and Sisseck to be on one side or the other of the river to match illyrian territories
+Reduced the size of Portsmouth-Wight
+adjusted Styria as well
 
 To-Do:
 Find Colors for new provinces, place at end of extra slots
