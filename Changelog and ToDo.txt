@@ -13,6 +13,7 @@ Corrected The colors for the provinces of the norhtern louisiana territory.  Col
 Edited Zagreb and Sisseck to be on one side or the other of the river to match illyrian territories
 Reduced the size of Portsmouth-Wight
 adjusted Styria as well
+Finished Reshaping the illyrian provinces
 
 To-Do:
 Find Colors for new provinces, place at end of extra slots
