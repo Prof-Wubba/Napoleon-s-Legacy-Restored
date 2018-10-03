@@ -19,6 +19,7 @@ Reshaped northern saxony
 Added a new province consisting of the islands of swedish pomerania
 Eddited shape of French probvince next to Mecklenburg and Lubeck to follow the river as it did historically
 Circled stuff for person to add provinces for on a separate layer
+Changed the original Cottbus and Erfrurt provinces to Luckau and Freyburg
 
 To-Do:
 Find Colors for new provinces, place at end of extra slots
@@ -29,3 +30,4 @@ Reshape hanseatic cities
 Check pops for northern louisiana province
 Redraw Geneva and Libourg and shift pops
 Adjust Definitions.csv to update new provinces
+Edit the original Cottbus and Erfurt History files to reflect the name change
