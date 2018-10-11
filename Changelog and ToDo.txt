@@ -20,6 +20,8 @@ Added a new province consisting of the islands of swedish pomerania
 Eddited shape of French probvince next to Mecklenburg and Lubeck to follow the river as it did historically
 Circled stuff for person to add provinces for on a separate layer
 Changed the original Cottbus and Erfrurt provinces to Luckau and Freyburg
+Added New Province for the French speaking parts of Piedmonte
+Extended the province of Nice
 
 To-Do:
 Find Colors for new provinces, place at end of extra slots
