@@ -232,7 +232,7 @@ FRA_458 = { 458 459 460 } #Aquitaine
 
 FRA_461 = { 461 463 464 449 } #Languedoc
 
-SAR_466 = { 465 466 472 3251 3280 } #Savoie
+SAR_466 = { 465 466 472 3251 3280 721 } #Savoie
 
 FRA_467 = { 467 468 469 470 471 } #Provence
 
@@ -268,11 +268,11 @@ POR_2134 = { 2134 2135 2136 } #Macaronesia
 
 ### Germany & Switzerland
 
-HAN_528 = { 528 531 532 } #Lower Elbe
+HAN_528 = { 528 531 535 } #Lower Elbe
 
-HAN_534 = { 534 535 536 537 3254 } #Hannover
+HAN_534 = { 534 536 537 3254 532 } #Hannover
 
-HAN_540 = { 539 540 543 542 538 541 1743 3259 } #East Friesland
+HAN_540 = { 539 540 543 542 538 541 1743 3259 581 } #East Friesland
 
 PRU_544 = { 544 545 } #Mecklenburg
 
@@ -280,11 +280,11 @@ PRU_546 = { 546 547 548 679 680 692 3275 } #Pomerania
 
 PRU_549 = { 549 550 551 552 681 3276 } #Brandenburg
 
-PRU_553 = { 553 555 556 557 } #Magdeburg
+PRU_553 = { 553 555 557 } #Magdeburg
 
-PRU_554 = { 554 561 562 563 3255 3256 } #Thuringia
+PRU_554 = { 554 561 562 563 3255 3256 3302 } #Thuringia
 
-SAX_558 = { 558 559 560 687 } #Saxony
+SAX_558 = { 558 559 560 687 3303 556 } #Saxony
 
 HES_2560 = { 564 565 566 567 568 2560 3257 3270 } #Hessen
 
@@ -294,7 +294,7 @@ PRU_575 = { 575 576 577 572 397 396 } #Rheinland
 
 PRU_578 = { 578 579 2561 3265 } #Eastern Rheinland
 
-PRU_581 = { 581 580 582 583 584 585 3267 } #Westfalen
+PRU_581 = { 580 582 583 584 585 3267 } #Westfalen
 
 BAD_586 = { 586 587 588 569 } #Baden
 
@@ -306,19 +306,19 @@ BAV_599 = { 599 592 600 601 602 } #Upper Bavaria
 
 #BAV_601 = { 601 602 } #Lower Bavaria
 
-SWI_603 = { 603 606 605 604 611 3272 } #Swiss Mittelland
+SWI_603 = { 603 606 605 604 611 } #Swiss Mittelland
 
-SWI_607 = { 607 608 609 3250 3271 3277 } #Région Lémanique
+SWI_607 = { 607 608 609 3250 3271 3277 3272 } #Région Lémanique
 
 SWI_2568 = { 2568 } #Alpen
  
 PRU_682 = { 682 683 684 685 689 2584 } #Lower Silesia
 
-PRU_690 = { 690 691 694 } #Westpreußen
+PRU_690 = { 690 691 } #Westpreußen
 
 PRU_695 = { 695 696 697 698 693 } #Ostpreußen
 
-PRU_701 = { 701 699 700 } #Posen
+PRU_701 = { 701 699 700 694 } #Posen
 
 
 ### Austria
@@ -374,7 +374,7 @@ AUS_2538 = { 2538 791 792 } #Vojvodina
 
 ### Italy
 
-SAR_720 = { 720 721 722 723 724 725 } #Piemonte
+SAR_720 = { 720 722 723 724 725 } #Piemonte
 
 #MOD_739 = { 739 738 740 } #Emilia
 
