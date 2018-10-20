@@ -19,7 +19,7 @@ Reshaped northern saxony
 Added a new province consisting of the islands of swedish pomerania
 Eddited shape of French probvince next to Mecklenburg and Lubeck to follow the river as it did historically
 Circled stuff for person to add provinces for on a separate layer
-Changed the original Cottbus and Erfrurt provinces to Luckau and Freyburg
+Changed the original Cottbus and Erfrurt provinces to Luckau and Freyburg - Change the original Cottbus and Erfurt History files to the new names before making a file for the new province of Cottbus or Erfurt
 Added New Province for the French speaking parts of Piedmonte
 Extended the province of Nice
 
