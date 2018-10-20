@@ -183,11 +183,11 @@ DEN_372 = { 372 373 374 } #Sjaelland
 
 NET_375 = { 375 376 377 382 } #Holland
 
-NET_379 = { 379 378 380 381 } #Zeeland
+NET_379 = { 379 378 380 } #Zeeland
 
 NET_385 = { 385 383 384 386 } #Friesland
 
-BEL_387 = { 387 388 389 390 391 } #Flanders
+BEL_387 = { 387 388 389 390 391 381 } #Flanders
 
 BEL_394 = { 394 392 393 395 398 } #Wallonia
 
