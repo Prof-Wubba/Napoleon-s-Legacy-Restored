@@ -10,9 +10,9 @@ CAN_13 = { 13 14 20 21 15 19 16 18 17 2629 } #Columbia
 
 #CAN_18 = { 18 17 2629 } #New Caledonia
 
-ENG_22 = { 27 26 22 23 24 25 28 2597 } #Alberta
+ENG_22 = { 27 26 22 23 24 25 28 2597 3279 } #Alberta
 
-ENG_30 = { 30 31 32 33 34 35 } #Saskatchewan
+ENG_30 = { 30 31 32 33 34 35 3278 } #Saskatchewan
 
 ENG_36 = { 42 36 37 38 39 40 41 } #Manitoba
 
@@ -232,7 +232,7 @@ FRA_458 = { 458 459 460 } #Aquitaine
 
 FRA_461 = { 461 463 464 449 } #Languedoc
 
-SAR_466 = { 465 466 472 3251} #Savoie
+SAR_466 = { 465 466 472 3251 3280 } #Savoie
 
 FRA_467 = { 467 468 469 470 471 } #Provence
 
@@ -276,9 +276,9 @@ HAN_540 = { 539 540 543 542 538 541 1743 3259 } #East Friesland
 
 PRU_544 = { 544 545 } #Mecklenburg
 
-PRU_546 = { 546 547 548 679 680 692 } #Pomerania
+PRU_546 = { 546 547 548 679 680 692 3275 } #Pomerania
 
-PRU_549 = { 549 550 551 552 681 } #Brandenburg
+PRU_549 = { 549 550 551 552 681 3276 } #Brandenburg
 
 PRU_553 = { 553 555 556 557 } #Magdeburg
 
@@ -308,7 +308,7 @@ BAV_599 = { 599 592 600 601 602 } #Upper Bavaria
 
 SWI_603 = { 603 606 605 604 611 3272 } #Swiss Mittelland
 
-SWI_607 = { 607 608 609 3250 3271 } #Région Lémanique
+SWI_607 = { 607 608 609 3250 3271 3277 } #Région Lémanique
 
 SWI_2568 = { 2568 } #Alpen
  
